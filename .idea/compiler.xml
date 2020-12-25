@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="runner" />
+        <module name="character-gen" />
+        <module name="character-api" />
       </profile>
     </annotationProcessing>
   </component>
